@@ -3,5 +3,8 @@
 - [Stratos Plugins](#stratos-plugins)
 - [Table of Contents](#table-of-contents)
   - [MongoDB](#MongoDB)
-    - [*MongoDB bitnami architecture*](#mongodb-bitnami-architecture)
-    - [*MongoDB bitnami validation*](#mongodb-bitnami-validation)
+    - [MongoDB bitnami](#mongodb-bitnami)
+      - [*MongoDB bitnami architecture*](#mongodb-bitnami-architecture)
+      - MongoDB bitnami validation - [README.md](Plugins/Servers/Database/MongoDB/MongoDB_Bitnami/MongoDB_bitnami_validation.md)
+
+
