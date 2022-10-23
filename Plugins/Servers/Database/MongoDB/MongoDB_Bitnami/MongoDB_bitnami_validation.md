@@ -21,4 +21,4 @@ Validation and Verification for MongoDB bitnami engine deployment.
 
     example out put in here I have created 2 replica cluster here you can see two LoadBalancer type endpoints has created.
 
-    [[images/kubectl_get_svc_mongoDb.png]]
+    ![plot](./images/kubectl_get_svc_mongoDb.png)
