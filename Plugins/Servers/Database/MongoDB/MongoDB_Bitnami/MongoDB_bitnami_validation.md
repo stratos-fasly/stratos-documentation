@@ -41,3 +41,20 @@ Validation and Verification for MongoDB bitnami engine deployment.
     mongodb://root:abc123456@a20c6b392c1b2409aa9413604624e004-346325208.us-west-2.elb.amazonaws.com:27017,a9f3c631e0b4646c2b93bb57678272b6-347774253.us-west-2.elb.amazonaws.com:27017,a90e3b1adcc3949fb9a39e28b60a09b3-141899268.us-west-2.elb.amazonaws.com:27017/
     ```
     ![plot](./images/mongodb_bitnami_compass_login.png)
+
+    Then click “Connect“ and connect to the MongoDB cluster
+
+- Once Connect to the cluster by clicking “+“ button “Create Database“
+
+![plot](./images/create_database.png)
+
+- The go to database and create collection by clicking create collection button.
+
+![plot](./images/create_collection.png)
+
+- Now add sample documents by clicking “Add Data” button.
+
+![plot](./images/add_data.png)
+
+Sample file
+
