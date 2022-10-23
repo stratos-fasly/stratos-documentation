@@ -5,6 +5,6 @@
   - [MongoDB](#MongoDB)
     - [MongoDB bitnami](#mongodb-bitnami)
       - [*MongoDB bitnami architecture*](#mongodb-bitnami-architecture)
-      - MongoDB bitnami validation - [README.md](Plugins/Servers/Database/MongoDB/MongoDB_Bitnami/MongoDB_bitnami_validation.md)
+      - [MongoDB bitnami validation](Plugins/Servers/Database/MongoDB/MongoDB_Bitnami/MongoDB_bitnami_validation.md)
 
 
