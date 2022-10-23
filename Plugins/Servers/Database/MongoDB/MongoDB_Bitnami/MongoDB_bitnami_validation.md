@@ -22,3 +22,22 @@ Validation and Verification for MongoDB bitnami engine deployment.
     example out put in here I have created 2 replica cluster here you can see two LoadBalancer type endpoints has created.
 
     ![plot](./images/kubectl_get_svc_mongoDb.png)
+
+    3. Copy endpoint URL’s and generate connection endpoint. like below.
+
+    ```
+    mongodb://{{username}}:{{password}}@{{connection_string_1}}:27017,{{connection_string_2}}:27017,{{connection_string_3}}:27017
+    ```
+
+    Username - The username can be root or {{plugin_name}}_user
+
+    Password - Password will be given password when run the engine
+
+    Connection_string - Connection string should take as mentioned above.
+
+    ex:- 
+
+    ```
+    mongodb://root:abc123456@a20c6b392c1b2409aa9413604624e004-346325208.us-west-2.elb.amazonaws.com:27017,a9f3c631e0b4646c2b93bb57678272b6-347774253.us-west-2.elb.amazonaws.com:27017,a90e3b1adcc3949fb9a39e28b60a09b3-141899268.us-west-2.elb.amazonaws.com:27017/
+    ```
+    ![plot](./images/mongodb_bitnami_compass_login.png)
